@@ -1,5 +1,6 @@
 # Cat-Ball: C++ Based Game
 Cat-Ball: A console game developed in c++ consisting of 3 levels.
+Run [cat-ball.exe](cat-ball.exe) to play the game!
 ## LEVEL 1
 <img src="Pictures/level1.PNG" alt="Level1" width="800"/>  
 
